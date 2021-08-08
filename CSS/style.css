@@ -29,4 +29,9 @@ span p {
   right: 50px;
   position: absolute;
   border-radius: 10px;
+  line-height: 30px;
+}
+
+ol {
+  line-height: 1.6;
 }
