@@ -4,12 +4,14 @@
 
 h1 {
   text-align: center;
+  color: lightcoral;
 }
 div {
   display: flex;
+  color: lightslategray;
 }
 
-ul {
-  background-color: gray;
-  /* This color is a placeholder to help visualise the list area */
+body {
+  font-size: larger;
+  background-color: #fde7e8;
 }
