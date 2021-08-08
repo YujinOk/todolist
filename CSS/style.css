@@ -11,9 +11,22 @@ div {
   display: flex;
   color: lightslategray;
   border: 10px solid pink;
+  border-radius: 15px;
 }
 
 body {
   font-size: larger;
   background-color: #fde7e8;
+}
+
+span p {
+  text-align: center;
+  border: 3px solid rgb(143, 21, 42);
+  margin: 20px;
+  padding: 4px;
+  width: 200px;
+  height: 30px;
+  right: 50px;
+  position: absolute;
+  border-radius: 10px;
 }
