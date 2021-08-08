@@ -6,9 +6,11 @@ h1 {
   text-align: center;
   color: lightcoral;
 }
+
 div {
   display: flex;
   color: lightslategray;
+  border: 10px solid pink;
 }
 
 body {
