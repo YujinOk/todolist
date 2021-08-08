@@ -2,6 +2,14 @@
   font-family: "Karla", sans-serif;
 }
 
+h1 {
+  text-align: center;
+}
 div {
   display: flex;
+}
+
+ul {
+  background-color: gray;
+  /* This color is a placeholder to help visualise the list area */
 }
